@@ -1,7 +1,7 @@
 //pro1
 #include<stdio.h>
 #include<stdlib.h>
-main()
+int main()
 	{
 	int *arr;
 	int n, i,choice,pos,x,key,found=0;
